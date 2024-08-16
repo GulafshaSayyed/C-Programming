@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        float quotient;
+        int quotient;
         int remainder;
         quotient=a/b;
         remainder=a%b;
